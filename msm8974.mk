@@ -141,7 +141,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 
 # USB OTG
 PRODUCT_PROPERTY_OVERRIDES += \
-    persist.sys.isUsbOtgEnabled=true
+    persist.sys.isUsbOtgEnabled=1
 
 # Wifi
 PRODUCT_PROPERTY_OVERRIDES += \
